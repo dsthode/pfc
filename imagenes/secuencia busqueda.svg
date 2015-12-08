@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="25cm" height="18cm" viewBox="107 -1 491 342" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="200" y1="40" x2="200" y2="60.25"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="200" y1="300.25" x2="200" y2="340"/>
+    <rect style="fill: #ffffff" x="193" y="60.25" width="14" height="240"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="193" y="60.25" width="14" height="240"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="145" y="0" width="109.35" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="145" y="0" width="109.35" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="199.675" y="21.9">
+      <tspan x="199.675" y="21.9">SearchServlet</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="155" y1="24.95" x2="244.35" y2="24.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="379.426" y1="36" x2="379.426" y2="140"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="379.426" y1="180" x2="379.426" y2="340"/>
+    <rect style="fill: #ffffff" x="372.426" y="140" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="372.426" y="140" width="14" height="40"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="300" y="0" width="158.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="0" width="158.85" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="379.425" y="21.9">
+      <tspan x="379.425" y="21.9">SearchMethodFactory</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="310" y1="24.95" x2="448.85" y2="24.95"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="0" width="117.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="0" width="117.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="538.85" y="21.9">
+      <tspan x="538.85" y="21.9">AbstractSearch</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="490" y1="24.95" x2="587.7" y2="24.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="538.85" y1="36" x2="538.85" y2="200"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="538.85" y1="260" x2="538.85" y2="340"/>
+    <rect style="fill: #ffffff" x="531.85" y="200" width="14" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="531.85" y="200" width="14" height="60"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="207" y1="80.25" x2="320" y2="80.25"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="320" y1="80.25" x2="320" y2="105.25"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="224" y1="105.25" x2="320" y2="105.25"/>
+    <polygon style="fill: #000000" points="224,100.25 208,105.25 224,110.25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="224,100.25 208,105.25 224,110.25 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="268" y="71.375">processRequest</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="355.426" y1="140.026" x2="207" y2="140.25"/>
+    <polygon style="fill: #000000" points="355.434,145.026 371.426,140.002 355.418,135.026 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="355.434,145.026 371.426,140.002 355.418,135.026 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="291" y="133.375">getSearchMethod</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="224" y1="180.224" x2="372.426" y2="180"/>
+    <polygon style="fill: #000000" points="223.992,175.224 208,180.248 224.008,185.224 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="223.992,175.224 208,180.248 224.008,185.224 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="514.85" y1="200.013" x2="207" y2="200.25"/>
+    <polygon style="fill: #000000" points="514.854,205.013 530.85,200.001 514.846,195.013 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="514.854,205.013 530.85,200.001 514.846,195.013 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="465" y="194.375">doSearch</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="224" y1="260.237" x2="531.85" y2="260"/>
+    <polygon style="fill: #000000" points="223.996,255.237 208,260.249 224.004,265.237 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="223.996,255.237 208,260.249 224.004,265.237 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="176.001" y1="60.0476" x2="109" y2="59.25"/>
+    <polygon style="fill: #000000" points="175.942,65.0473 192,60.2381 176.061,55.048 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="175.942,65.0473 192,60.2381 176.061,55.048 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="146" y="54.375">doGet</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="132" y1="300.25" x2="193" y2="300.25"/>
+    <polygon style="fill: #000000" points="132,295.25 116,300.25 132,305.25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="132,295.25 116,300.25 132,305.25 "/>
+  </g>
+</svg>

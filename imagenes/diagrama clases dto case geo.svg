@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="33cm" height="17cm" viewBox="39 39 642 322" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="40" y="60" width="640" height="300"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="60" width="640" height="300"/>
+    <rect style="fill: #ffffff" x="40" y="40" width="219.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="40" width="219.6" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="42" y="54">es.juntadeandalucia.fass.dto</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="80" width="125.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="80" width="125.15" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="142.575" y="99">AbstractDTO</text>
+    <rect style="fill: #ffffff" x="80" y="108" width="125.15" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="108" width="125.15" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="83" y="122">-properties</text>
+    <rect style="fill: #ffffff" x="80" y="128" width="125.15" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="128" width="125.15" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="83" y="142">+hasProperty()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="83" y="158">+getProperty()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="83" y="174">+setProperty()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="83" y="190">+load()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="280" width="90.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="280" width="90.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="105.35" y="299">CaseDTO</text>
+    <rect style="fill: #ffffff" x="60" y="308" width="90.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="308" width="90.7" height="8"/>
+    <rect style="fill: #ffffff" x="60" y="316" width="90.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="316" width="90.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="63" y="330">+load()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="142.575,215.243 142.575,246 105.35,246 105.35,278.993 "/>
+    <polygon style="fill: #ffffff" points="150.575,215.243 142.575,199.243 134.575,215.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="150.575,215.243 142.575,199.243 134.575,215.243 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="160" width="82.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="160" width="82.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="421.4" y="179">GeoDTO</text>
+    <rect style="fill: #ffffff" x="380" y="188" width="82.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="188" width="82.8" height="8"/>
+    <rect style="fill: #ffffff" x="380" y="196" width="82.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="196" width="82.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="383" y="210">+load()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360.759,188 284.576,188 284.576,138 206.158,138 "/>
+    <polygon style="fill: #ffffff" points="360.759,196 376.759,188 360.759,180 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360.759,196 376.759,188 360.759,180 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="240" y="280" width="153.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="280" width="153.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="316.65" y="299">PostGISGeoDTO</text>
+    <rect style="fill: #ffffff" x="240" y="308" width="153.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="308" width="153.3" height="8"/>
+    <rect style="fill: #ffffff" x="240" y="316" width="153.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="316" width="153.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="243" y="330">+load()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="421.4,235.243 421.4,256 316.65,256 316.65,278.993 "/>
+    <polygon style="fill: #ffffff" points="429.4,235.243 421.4,219.243 413.4,235.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="429.4,235.243 421.4,219.243 413.4,235.243 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="440" y="280" width="204.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="440" y="280" width="204.15" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="542.075" y="299">OracleSpatialGeoDTO</text>
+    <rect style="fill: #ffffff" x="440" y="308" width="204.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="440" y="308" width="204.15" height="8"/>
+    <rect style="fill: #ffffff" x="440" y="316" width="204.15" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="440" y="316" width="204.15" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="443" y="330">+load()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="421.4,235.243 421.4,256 542.075,256 542.075,278.993 "/>
+    <polygon style="fill: #ffffff" points="429.4,235.243 421.4,219.243 413.4,235.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="429.4,235.243 421.4,219.243 413.4,235.243 "/>
+  </g>
+</svg>

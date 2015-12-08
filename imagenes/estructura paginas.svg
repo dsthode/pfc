@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="28cm" height="32cm" viewBox="-29 32 548 639" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="81.2862" y="33.25" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="81.2862" y="33.25" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="81.2862" y="33.25" width="106.806" height="110.367"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="93.8026" y="163.433">
+    <tspan x="93.8026" y="163.433">cabecera.jsp</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="212.6" y="33.15" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="212.6" y="33.15" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="212.6" y="33.15" width="106.806" height="110.367"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="244.816" y="163.333">
+    <tspan x="244.816" y="163.333">pie.jsp</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="133.502,180.462 133.502,200.462 68.002,200.462 199.002,220.462 330.002,200.462 264.502,200.462 264.502,180.462 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="133.502,180.462 133.502,200.462 68.002,200.462 199.002,220.462 330.002,200.462 264.502,200.462 264.502,180.462 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="133.502,180.462 133.502,200.462 68.002,200.462 199.002,220.462 330.002,200.462 264.502,200.462 264.502,180.462 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-27.198" y="246.362" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-27.198" y="246.362" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-27.198" y="246.362" width="106.806" height="110.367"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-15.9448" y="375.546">
+    <tspan x="-15.9448" y="375.546">buscar.jsp</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="31.002" y="374.462">
+    <tspan x="31.002" y="374.462"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="239.802" y="246.362" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="239.802" y="246.362" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="239.802" y="246.362" width="106.806" height="110.367"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="263.856" y="376.544">
+    <tspan x="263.856" y="376.544">mapa.jsp</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="298.002" y="372.462">
+    <tspan x="298.002" y="372.462"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="379.602" y="245.262" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="379.602" y="245.262" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="379.602" y="245.262" width="106.806" height="110.367"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="396.53" y="375.444">
+    <tspan x="396.53" y="375.444">detalles.jsp</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="437.802" y="373.362">
+    <tspan x="437.802" y="373.362"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="108.202" y="246.062" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="108.202" y="246.062" width="106.806" height="110.367"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="108.202" y="246.062" width="106.806" height="110.367"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="115.355" y="376.246">
+    <tspan x="115.355" y="376.246">bavanzada.jsp</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="166.402" y="374.162">
+    <tspan x="166.402" y="374.162"></tspan>
+  </text>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="76.2468" y="486.9" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="76.2468" y="486.9" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="76.2468" y="486.9" width="106.806" height="110.367"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="86.0468" y="494.8" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="86.0468" y="494.8" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="86.0468" y="494.8" width="106.806" height="110.367"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="97.8468" y="503.7" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="97.8468" y="503.7" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="97.8468" y="503.7" width="106.806" height="110.367"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="236.8" y="487.65" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="236.8" y="487.65" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="236.8" y="487.65" width="106.806" height="110.367"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="246.6" y="495.55" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="246.6" y="495.55" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="246.6" y="495.55" width="106.806" height="110.367"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="258.4" y="504.45" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="258.4" y="504.45" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="258.4" y="504.45" width="106.806" height="110.367"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="388.6" y="486.55" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="388.6" y="486.55" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="388.6" y="486.55" width="106.806" height="110.367"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="398.4" y="494.45" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="398.4" y="494.45" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="398.4" y="494.45" width="106.806" height="110.367"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff" x="410.2" y="503.35" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="410.2" y="503.35" width="106.806" height="110.367"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="410.2" y="503.35" width="106.806" height="110.367"/>
+    </g>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="279,465.133 279,433.633 269,433.633 289,402.133 309,433.633 299,433.633 299,465.133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="279,465.133 279,433.633 269,433.633 289,402.133 309,433.633 299,433.633 299,465.133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="279,465.133 279,433.633 269,433.633 289,402.133 309,433.633 299,433.633 299,465.133 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="74.9" y="635.75">
+    <tspan x="74.9" y="635.75">bavanzada_case.jsp</tspan>
+    <tspan x="74.9" y="651.75">bavanzada_3edad.jsp</tspan>
+    <tspan x="74.9" y="667.75">...</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="249.354" y="634.75">
+    <tspan x="249.354" y="634.75">mapa_case.jsp</tspan>
+    <tspan x="249.354" y="650.75">mapa_3edad.jsp</tspan>
+    <tspan x="249.354" y="666.75">...</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="400.028" y="633.75">
+    <tspan x="400.028" y="633.75">detalles_case.jsp</tspan>
+    <tspan x="400.028" y="649.75">detalles_3edad.jsp</tspan>
+    <tspan x="400.028" y="665.75">...</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="147.619,465.133 147.619,433.633 137.619,433.633 157.619,402.133 177.619,433.633 167.619,433.633 167.619,465.133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="147.619,465.133 147.619,433.633 137.619,433.633 157.619,402.133 177.619,433.633 167.619,433.633 167.619,465.133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="147.619,465.133 147.619,433.633 137.619,433.633 157.619,402.133 177.619,433.633 167.619,433.633 167.619,465.133 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="420.419,465.133 420.419,433.633 410.419,433.633 430.419,402.133 450.419,433.633 440.419,433.633 440.419,465.133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="420.419,465.133 420.419,433.633 410.419,433.633 430.419,402.133 450.419,433.633 440.419,433.633 440.419,465.133 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="420.419,465.133 420.419,433.633 410.419,433.633 430.419,402.133 450.419,433.633 440.419,433.633 440.419,465.133 "/>
+  </g>
+</svg>

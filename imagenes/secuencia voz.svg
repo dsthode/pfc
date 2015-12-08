@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="34cm" height="23cm" viewBox="119 79 662 442" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="160" y="80" width="99.45" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="80" width="99.45" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="209.725" y="101.9">
+      <tspan x="209.725" y="101.9">VoiceServlet</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="170" y1="104.95" x2="249.45" y2="104.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="209.725" y1="116" x2="209.725" y2="140"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="209.725" y1="500" x2="209.725" y2="520"/>
+    <rect style="fill: #ffffff" x="202.725" y="140" width="14" height="360"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="202.725" y="140" width="14" height="360"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="216.725" y1="160" x2="340" y2="160"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="340" y1="160" x2="340" y2="180"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="233.725" y1="180" x2="340" y2="180"/>
+    <polygon style="fill: #000000" points="233.725,175 217.725,180 233.725,185 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="233.725,175 217.725,180 233.725,185 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="281" y="154">processRequest</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="185.725" y1="140" x2="120" y2="140"/>
+    <polygon style="fill: #000000" points="185.725,145 201.725,140 185.725,135 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="185.725,145 201.725,140 185.725,135 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="158" y="135">doGet</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="216.725" y1="220" x2="340" y2="220"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="340" y1="220" x2="340" y2="240"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="233.725" y1="240" x2="340" y2="240"/>
+    <polygon style="fill: #000000" points="233.725,235 217.725,240 233.725,245 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="233.725,235 217.725,240 233.725,245 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="282" y="212">getText</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="216.725" y1="280" x2="340" y2="280"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="340" y1="280" x2="340" y2="300"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="233.725" y1="300" x2="340" y2="300"/>
+    <polygon style="fill: #000000" points="233.725,295 217.725,300 233.725,305 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="233.725,295 217.725,300 233.725,305 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="274">sendAudioData</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="366.75" y1="340" x2="216.725" y2="340"/>
+    <polygon style="fill: #000000" points="366.75,345 382.75,340 366.75,335 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="366.75,345 382.75,340 366.75,335 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="301" y="333">processRequest</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="80" width="101.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="80" width="101.5" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="390.75" y="101.9">
+      <tspan x="390.75" y="101.9">VoiceService</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="350" y1="104.95" x2="431.5" y2="104.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="390.75" y1="116" x2="390.75" y2="340"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="390.75" y1="480" x2="390.75" y2="520"/>
+    <rect style="fill: #ffffff" x="383.75" y="340" width="14" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="383.75" y="340" width="14" height="140"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="500" y="80" width="144.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500" y="80" width="144.85" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="572.425" y="101.9">
+      <tspan x="572.425" y="101.9">AbstractVoiceClient</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="510" y1="104.95" x2="634.85" y2="104.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="572.425" y1="116" x2="572.425" y2="360"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="572.425" y1="400" x2="572.425" y2="520"/>
+    <rect style="fill: #ffffff" x="565.425" y="360" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="565.425" y="360" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="548.425" y1="360" x2="397.75" y2="360"/>
+    <polygon style="fill: #000000" points="548.425,365 564.425,360 548.425,355 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="548.425,365 564.425,360 548.425,355 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="484" y="353">sayText</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="414.75" y1="400" x2="565.425" y2="400"/>
+    <polygon style="fill: #000000" points="414.75,395 398.75,400 414.75,405 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="414.75,395 398.75,400 414.75,405 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="680" y="80" width="99.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="80" width="99.3" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="729.65" y="101.9">
+      <tspan x="729.65" y="101.9">MP3Encoder</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="690" y1="104.95" x2="769.3" y2="104.95"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="729.65" y1="116" x2="729.65" y2="420"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="729.65" y1="460" x2="729.65" y2="520"/>
+    <rect style="fill: #ffffff" x="722.65" y="420" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="722.65" y="420" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="705.65" y1="420" x2="397.75" y2="420"/>
+    <polygon style="fill: #000000" points="705.65,425 721.65,420 705.65,415 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="705.65,425 721.65,420 705.65,415 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="642" y="414">getInputStream</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="414.75" y1="460" x2="722.65" y2="460"/>
+    <polygon style="fill: #000000" points="414.75,455 398.75,460 414.75,465 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="414.75,455 398.75,460 414.75,465 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="233.725" y1="480" x2="383.75" y2="480"/>
+    <polygon style="fill: #000000" points="233.725,475 217.725,480 233.725,485 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="233.725,475 217.725,480 233.725,485 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="137" y1="500" x2="202.725" y2="500"/>
+    <polygon style="fill: #000000" points="137,495 121,500 137,505 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="137,495 121,500 137,505 "/>
+  </g>
+</svg>

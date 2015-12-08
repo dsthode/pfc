@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="37cm" height="20cm" viewBox="167 76 740 385" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="168" y="97" width="738" height="363"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="168" y="97" width="738" height="363"/>
+    <rect style="fill: #ffffff" x="168" y="77" width="219.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="168" y="77" width="219.6" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="170" y="91">es.juntadeandalucia.fass.tts</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="240" y="120" width="194.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="120" width="194.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="337.4" y="139">AbstractVoiceClient</text>
+    <rect style="fill: #ffffff" x="240" y="148" width="194.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="148" width="194.8" height="8"/>
+    <rect style="fill: #ffffff" x="240" y="156" width="194.8" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="156" width="194.8" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="243" y="170">+sayText(in text:String)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="243" y="186">+connect()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="243" y="202">+close()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="243" y="218">+getInputStream()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="580" y="120" width="251.75" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="120" width="251.75" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="705.875" y="139">AbstractTTSStreamWorker</text>
+    <rect style="fill: #ffffff" x="580" y="148" width="251.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="148" width="251.75" height="8"/>
+    <rect style="fill: #ffffff" x="580" y="156" width="251.75" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="580" y="156" width="251.75" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="583" y="170">+processInput()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="583" y="186">+getPipedInputStream()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="583" y="202">+getPipedOutputStream()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="583" y="218">+getInputStream()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="460.978,172 450.806,172 577.992,172 578.992,172 "/>
+    <polygon style="fill: #ffffff" points="435.806,172 449.806,167.2 463.806,172 449.806,176.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="435.806,172 449.806,167.2 463.806,172 449.806,176.8 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="320" width="151.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="320" width="151.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="255.7" y="339">LoquendoClient</text>
+    <rect style="fill: #ffffff" x="180" y="348" width="151.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="348" width="151.4" height="8"/>
+    <rect style="fill: #ffffff" x="180" y="356" width="151.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="356" width="151.4" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="320" width="133.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="320" width="133.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="426.6" y="339">FestivalClient</text>
+    <rect style="fill: #ffffff" x="360" y="348" width="133.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="348" width="133.2" height="8"/>
+    <rect style="fill: #ffffff" x="360" y="356" width="133.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="356" width="133.2" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="520" y="320" width="229.05" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="320" width="229.05" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="634.525" y="339">LoquendoStreamWorker</text>
+    <rect style="fill: #ffffff" x="520" y="348" width="229.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="348" width="229.05" height="8"/>
+    <rect style="fill: #ffffff" x="520" y="356" width="229.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="356" width="229.05" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="680" y="380" width="210.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="380" width="210.85" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="785.425" y="399">FestivalStreamWorker</text>
+    <rect style="fill: #ffffff" x="680" y="408" width="210.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="408" width="210.85" height="8"/>
+    <rect style="fill: #ffffff" x="680" y="416" width="210.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="416" width="210.85" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="337.4,243.243 337.4,280 255.7,280 255.7,318.994 "/>
+    <polygon style="fill: #ffffff" points="345.4,243.243 337.4,227.243 329.4,243.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="345.4,243.243 337.4,227.243 329.4,243.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="337.4,243.243 337.4,280 426.6,280 426.6,318.994 "/>
+    <polygon style="fill: #ffffff" points="345.4,243.243 337.4,227.243 329.4,243.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="345.4,243.243 337.4,227.243 329.4,243.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="705.875,243.243 705.875,280 634.525,280 634.525,318.994 "/>
+    <polygon style="fill: #ffffff" points="713.875,243.243 705.875,227.243 697.875,243.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="713.875,243.243 705.875,227.243 697.875,243.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="705.875,243.243 705.875,310 785.425,310 785.425,378.994 "/>
+    <polygon style="fill: #ffffff" points="713.875,243.243 705.875,227.243 697.875,243.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="713.875,243.243 705.875,227.243 697.875,243.243 "/>
+  </g>
+</svg>

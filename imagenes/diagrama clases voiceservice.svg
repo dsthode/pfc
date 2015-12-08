@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="26cm" height="17cm" viewBox="207 144 514 330" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="208" y="166" width="512" height="308"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="208" y="166" width="512" height="308"/>
+    <rect style="fill: #ffffff" x="208" y="146" width="288.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="208" y="146" width="288.9" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="210" y="160">es.juntadeandalucia.fass.gis.services</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="240" y="200" width="248.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="200" width="248.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="364.35" y="219">VoiceService</text>
+    <rect style="fill: #ffffff" x="240" y="228" width="248.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="228" width="248.7" height="8"/>
+    <rect style="fill: #ffffff" x="240" y="236" width="248.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="236" width="248.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="243" y="250">+processRequest(in text:String)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="240" y="340" width="189.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="340" width="189.15" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="334.575" y="359">AbstractVoiceClient</text>
+    <rect style="fill: #ffffff" x="240" y="368" width="189.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="368" width="189.15" height="8"/>
+    <rect style="fill: #ffffff" x="240" y="376" width="189.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="376" width="189.15" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="364.35,282.179 364.35,305.001 334.575,305.001 334.575,338.994 "/>
+    <polygon style="fill: #ffffff" points="364.35,257.007 369.15,271.007 364.35,285.007 359.55,271.007 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="364.35,257.007 369.15,271.007 364.35,285.007 359.55,271.007 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="500" y="340" width="125.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500" y="340" width="125.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="562.75" y="359">MP3Encoder</text>
+    <rect style="fill: #ffffff" x="500" y="368" width="125.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500" y="368" width="125.5" height="8"/>
+    <rect style="fill: #ffffff" x="500" y="376" width="125.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500" y="376" width="125.5" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503" y="390">+startProcess()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503" y="406">+run()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503" y="422">+encode()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="364.35,282.179 364.35,305.001 562.75,305.001 562.75,338.995 "/>
+    <polygon style="fill: #ffffff" points="364.35,257.007 369.15,271.007 364.35,285.007 359.55,271.007 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="364.35,257.007 369.15,271.007 364.35,285.007 359.55,271.007 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="600" y="200" width="94.25" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="200" width="94.25" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="647.125" y="219">Runnable</text>
+    <rect style="fill: #ffffff" x="600" y="228" width="94.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="228" width="94.25" height="8"/>
+    <rect style="fill: #ffffff" x="600" y="236" width="94.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="236" width="94.25" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="647.125,263.242 647.125,354 625.5,354 "/>
+    <polygon style="fill: #ffffff" points="655.125,263.242 647.125,247.242 639.125,263.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="655.125,263.242 647.125,247.242 639.125,263.242 "/>
+  </g>
+</svg>
